@@ -5,7 +5,7 @@ const Mainlayout = () => {
     return (
         <div className="main-layout">
             <div >
-             <Mainsidebar/>
+             {/* <Mainsidebar/> */}
 
             </div>
             <div className="content">

@@ -1,0 +1,42 @@
+.header{
+    position: static;
+    margin: 0px 8px;
+    display: flex;
+    justify-content:space-between;
+    justify-items: center;
+    align-items: center;
+    background-color: white;
+    color: black;
+
+}
+.header_info{
+    display: flex;
+    gap: 5px;
+}
+.form_image{
+    height: 50px ;
+    width: 40px;
+}
+
+.header_search{
+   position: relative;
+   display: flex;
+   align-items: center;
+   gap: 5px;
+}
+.search_icon{
+    position: absolute;
+    right: 10px;
+}
+
+.header_right{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.header_profile{
+    height: 30px;
+    width: 30px;
+    border-radius:100%;
+}
